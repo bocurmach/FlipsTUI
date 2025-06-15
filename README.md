@@ -6,8 +6,8 @@ This project aims to streamline the workflow of patching IPS and BPS files. So f
  - move the patched files to a designated or momentarily picked folder
  - deleting of used patches/zip files with patches or archiving them to a designated folder
  - The patching will not be altered from the original.
- - These functions in a Terminal User Interface (TUI) written in golang as this is the language that I want to learn currently. I also intend to use charmbracelet/bubbletea.
+ - These functions in a Terminal User Interface (TUI) written in rust as this is the language that I want to learn currently.
 
 I am fairly new to github. This will be my biggest side project so far. I have yet to figure out, wether this being a fork is appropriate, or if importing is the way to go.
 
-Credit to Alcaro and all contributors, who take care of this beloved tool. Thank you!
+Credit to Alcaro and all contributors, who take care of the beloved tool that provides the core functionality for this wrapper.
