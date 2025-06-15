@@ -5,7 +5,7 @@ This project aims to streamline the workflow of patching IPS and BPS files. So f
  - patching a default file or any other file if desired
  - move the patched files to a designated or momentarily picked folder
  - deleting of used patches/zip files with patches or archiving them to a designated folder
- - The patching will not be altered from the original.
+ - The acutal patching will be done by the code in the original repo, which stays untouched.
  - These functions in a Terminal User Interface (TUI) written in rust as this is the language that I want to learn currently.
 
 I am fairly new to github. This will be my biggest side project so far. I have yet to figure out, wether this being a fork is appropriate, or if importing is the way to go.
